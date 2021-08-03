@@ -1,0 +1,18 @@
+﻿Push Button 1 wired to pin 2 with values U, L
+Push Button 2 wired to pin 4 with values U, M
+Push Button 3 wired to pin 5 with values U, M
+Piezo Speaker 1 wired to pin 3 
+4-LED Row 1 wired to pins 26, 27, 28, 29 with values D, R
+Analog Slider 1 wired to pin A3 
+Analog Slider 2 wired to pin A2 
+Analog Slider 3 wired to pin A1 
+Analog Slider 4 wired to pin A0 
+Analog Slider 5 wired to pin A4 
+Analog Slider 6 wired to pin A5 
+Servo Motor 1 wired to pin 22 
+Servo Motor 2 wired to pin 23 
+Servo Motor 3 wired to pin 24 
+DC Motor 1 wired to pins 8, 9, -1 with values F, 0, 
+DC Motor 2 wired to pins 10, 11, -1 with values F, 0, 
+Text LCD (I2C) 1 wired to pins 20, 21 with values 0x20, B, 0
+USB Serial 1 wired to pins 1, 0 with value 9600
