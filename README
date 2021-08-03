@@ -1,0 +1,5 @@
+Use UnoArduSim
+Go to tab Configure -> Preferences -> Change to Uno V3
+Load I/O Devices Go to Configure ->I/O Devices-> Load file TXT
+Load Ino Go to file -> Load INO
+Run
